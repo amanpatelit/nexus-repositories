@@ -23,3 +23,6 @@ docker run -d \
   "insecure-registries": ["your-nexus-ip:5000"]
 }
 ````
+#### docker login
+<img width="824" height="139" alt="image" src="https://github.com/user-attachments/assets/1a5341a2-fd80-4764-912d-e5463c346b4a" />
+
