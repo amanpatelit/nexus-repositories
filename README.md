@@ -26,3 +26,6 @@ docker run -d \
 #### docker login
 <img width="824" height="139" alt="image" src="https://github.com/user-attachments/assets/1a5341a2-fd80-4764-912d-e5463c346b4a" />
 
+<img width="1917" height="979" alt="image" src="https://github.com/user-attachments/assets/0ae2ca9f-5cd5-4c00-8b7c-249f1afc8a8c" />
+
+
