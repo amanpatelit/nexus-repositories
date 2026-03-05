@@ -1,6 +1,10 @@
 # nexus-repositories
 nexus-repositories
 
+### Details Blog 
+
+https://medium.com/p/f3573b507c5c?postPublishedType=initial
+
 ````
 docker run -d \
   --name nexus \
